@@ -1,12 +1,5 @@
 <h1>Hi, I'm Marvs Marfil 👋</h1>
 
-<p>
-🎓 BSIT student, self-directed path toward becoming an <b>AI Automation Developer</b> & <b>Full Stack Developer</b><br/>
-📍 Based in the Philippines<br/>
-🌱 Open to freelance & remote opportunities
-</p>
-
-I build backend APIs with **Python + FastAPI**, work through database design with **PostgreSQL + SQLAlchemy**, and I'm currently leveling up into **React + Next.js** for the frontend. Long term, I'm aiming to build AI-powered automation systems — combining LLM APIs, agents, and full stack development into real, working products.
 
 ---
 

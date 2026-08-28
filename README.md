@@ -1,26 +1,29 @@
 <h1>Hi, I'm Marvs Marfil 👋 </h1>
 
-
 ---
 
+### 💻 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
 
 ---
 
 ### 🧰 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" /><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm" />
 </p>
 
-**Backend:** FastAPI · Pydantic · Uvicorn · REST APIs · SQLAlchemy · Alembic · JWT Auth · bcrypt · Swagger/OpenAPI
+**Backend:** FastAPI · REST APIs · SQLAlchemy · Alembic · JWT Auth
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query · React Hook Form · Zod
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui
 
-**Tools:** Git · GitHub · VS Code · WSL/Ubuntu · npm · pip · venv
+**Tools:** Git · GitHub · VS Code · Linux · npm · pip
 
 ---
 
@@ -31,13 +34,13 @@
 <td width="50%">
 
 **🏦 Task Manager**
-Multi-level relational system (User → Project → Task) with many-to-many assignments, built with Alembic migrations.
+Task management system with users, projects, tasks, and relational database relationships.
 
 </td>
 <td width="50%">
 
 **📚 Library System**
-Many-to-many relationship via association object, tracking loan/return dates.
+Library management system with book loans, returns, and relational database relationships.
 
 </td>
 </tr>
@@ -45,13 +48,13 @@ Many-to-many relationship via association object, tracking loan/return dates.
 <td width="50%">
 
 **📦 Inventory API**
-Full CRUD API migrated from JSON → SQLite → PostgreSQL.
+REST API with full CRUD functionality and PostgreSQL database integration.
 
 </td>
 <td width="50%">
 
 **🧾 Employee Management**
-FastAPI backend with flexible search via query params.
+FastAPI backend with employee management and flexible search functionality.
 
 </td>
 </tr>
@@ -62,8 +65,5 @@ FastAPI backend with flexible search via query params.
 ### 🌐 Connect
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:marvsmarfil80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="profile views"/>

@@ -3,20 +3,7 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-**Skills**
-
-I have | I'm learning | Next up
-:---: | :---: | :---:
-<img src="https://skillicons.dev/icons?i=python" height="40"/> Python | <img src="https://skillicons.dev/icons?i=react" height="40"/> React | <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI | <img src="https://skillicons.dev/icons?i=typescript" height="40"/> TypeScript | <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL | | <img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
-<img src="https://skillicons.dev/icons?i=git,github" height="40"/> Git / GitHub | |
-
-<br clear="right"/>
 
 ---
 

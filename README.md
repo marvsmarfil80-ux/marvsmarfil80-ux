@@ -1,37 +1,44 @@
-<h1>Hi, I'm Marvs Marfil 👋</h1>
+<h1 align="center">Marvs Marfil</h1>
 
 
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,nextjs,ts,tailwind,git,github" />
 </p>
 
-I build backend APIs with **Python + FastAPI**, work through database design with **PostgreSQL + SQLAlchemy**, and I'm currently leveling up into **React + Next.js** for the frontend. Long term, I'm aiming to build AI-powered automation systems — combining LLM APIs, agents, and full stack development into real, working products.
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
----
+<!-- SNAKE_START -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/marvsmarfil80-ux/marvsmarfil80-ux/output/github-contribution-grid-snake.svg" />
+</p>
+<!-- SNAKE_END -->
 
-<h3>📊 GitHub Stats</h3>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-**Skills**
-
-I have | I'm learning | Next up
-:---: | :---: | :---:
-<img src="https://skillicons.dev/icons?i=python" height="40"/> Python | <img src="https://skillicons.dev/icons?i=react" height="40"/> React | <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI | <img src="https://skillicons.dev/icons?i=typescript" height="40"/> TypeScript | <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL | | <img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
-<img src="https://skillicons.dev/icons?i=git,github" height="40"/> Git / GitHub | |
-
-<br clear="right"/>
+<!-- SPOTIFY_START -->
+<p align="center">
+<i>Spotify Now Playing widget goes here — setup instructions below</i>
+</p>
+<!-- SPOTIFY_END -->
 
 ---
 
 ### 🧰 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm" />
-</p>
 
 **Backend:** FastAPI · Pydantic · Uvicorn · REST APIs · SQLAlchemy · Alembic · JWT Auth · bcrypt · Swagger/OpenAPI
 
@@ -43,44 +50,13 @@ I have | I'm learning | Next up
 
 ### 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+| Project | Description |
+|---|---|
+| 🏦 **Task Manager** | Multi-level relational system (User → Project → Task) with many-to-many assignments, built with Alembic migrations |
+| 📚 **Library System** | Many-to-many relationship via association object, tracking loan/return dates |
+| 📦 **Inventory API** | Full CRUD API migrated from JSON → SQLite → PostgreSQL |
+| 🧾 **Employee/Student API** | FastAPI backend with flexible search via query params |
 
-**🏦 Task Manager**
-Multi-level relational system (User → Project → Task) with many-to-many assignments, built with Alembic migrations.
-
-</td>
-<td width="50%">
-
-**📚 Library System**
-Many-to-many relationship via association object, tracking loan/return dates.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📦 Inventory API**
-Full CRUD API migrated from JSON → SQLite → PostgreSQL.
-
-</td>
-<td width="50%">
-
-**🧾 Employee Management**
-FastAPI backend with flexible search via query params.
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌐 Connect
-
-<p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=marvsmarfil80-ux&color=blue" alt="profile views"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="profile views"/>

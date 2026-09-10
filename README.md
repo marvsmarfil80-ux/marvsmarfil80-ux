@@ -27,6 +27,20 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=marvsmarfil80-ux&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p>
+<img src="https://streak-stats.demolab.com?user=marvsmarfil80-ux&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 🌐 Connect
 
 <p>

@@ -27,18 +27,46 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 📌 Featured Projects
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=marvsmarfil80-ux&theme=tokyonight&hide_border=true&v=2" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+**🏦 Task Manager**  
+Task management system with users, projects, tasks, and relational database relationships.
+
+</td>
+<td width="50%">
+
+**📚 Library System**  
+Library management system with book loans, returns, and relational database relationships.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**📦 Inventory API**  
+REST API with full CRUD functionality and PostgreSQL database integration.
+
+</td>
+<td width="50%">
+
+**🧾 Employee Management**  
+FastAPI backend with employee management and flexible search functionality.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Connect
 
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marvsmarfil80@gmail.com" target="_blank">
+  <a href="mailto:marvsmarfil80@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

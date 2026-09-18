@@ -63,6 +63,14 @@ FastAPI backend with employee management and flexible search functionality.
 
 ---
 
+### 🔥 GitHub Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=marvsmarfil80-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🌐 Connect
 
 <p>

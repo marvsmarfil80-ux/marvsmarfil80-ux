@@ -16,12 +16,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=n8n" /><br/>
   <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,linux,npm" />
 </p>
 
 **Backend:** FastAPI · REST APIs · SQLAlchemy · Alembic · JWT Auth
 
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Vite
+
+**Automation:** n8n · Workflow Automation
 
 **Tools:** Git · GitHub · VS Code · Linux · npm · pip
 
@@ -54,8 +57,8 @@ REST API with full CRUD functionality and PostgreSQL database integration.
 </td>
 <td width="50%">
 
-**🧾 Employee Management**  
-FastAPI backend with employee management and flexible search functionality.
+**🤖 AI Job Tracker**  
+AI-powered job hunting and application tracking system that automates the application workflow.
 
 </td>
 </tr>

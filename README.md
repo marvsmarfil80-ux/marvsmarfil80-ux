@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=n8n" /><br/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><br/>
   <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,linux,npm" />
 </p>
 
